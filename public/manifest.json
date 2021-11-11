@@ -1,0 +1,25 @@
+{
+  "short_name": "Infinity Bots | Ban Appeals",
+  "name": "Front and Backend Website for the Infinity Bot List Ban Appeals Site made using React.",
+  "icons": [
+    {
+      "src": "Infinity5.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "Infinity5.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Infinity5.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#7289DA",
+  "background_color": "#ffffff"
+}
